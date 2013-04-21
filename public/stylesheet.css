@@ -41,15 +41,10 @@ div .H {
 	color : white;
 }
 
-#home image {
+#homeimage {
 	float : left;
 }
 
-
-div .homecontents {
-	float : left;
-	width : 400px;
-}
 
 #pastimage {
 	float : left;
@@ -57,7 +52,15 @@ div .homecontents {
 
 .contetns {
 	float :left;
+  padding : 10px;
 }
 
-	
+#pastimage {
+  float : left;
+}
+
+#futureimage {
+  float : left;
+}
+
 
