@@ -68,12 +68,6 @@ a img{border:0px;}
 	height:24px; 
 	background:url(images/sm-twitter-icon.png) no-repeat;
 }
-#about #top-social .blog{
-	text-indent:-9999px;
-	display:block;
-	width:26px;
-	height:26px;
-	background:url(images/sm-blog-icon.png) no-repeat;
 
 #about #top-social .linkedin{
 	text-indent:-9999px; 
